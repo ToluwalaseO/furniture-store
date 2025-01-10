@@ -26,7 +26,7 @@ const header = () => {
             </ul>
         </nav>
     </header>
-    );
-};
+    )
+}
 
-export default header;
+export default header
