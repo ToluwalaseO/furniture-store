@@ -1,0 +1,37 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    padding:20px 40px;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo h1{
+    font-size:30px;
+    position: relative;
+    left:130px;
+    bottom: 25px;
+}
+.logo img{
+    position: relative;
+    top:38px;
+    left:58px;
+}
+
+.bar{
+    display:flex;
+    Gap:20px;
+    list-style: none;
+    position: relative;
+    right:400px;
+    font-size: 18px;
+}
+
+.iconss{
+    display: flex;
+    gap:15px;
+    list-style: none;
+    position: relative;
+    bottom: 40px;
+    left:350px
+}
