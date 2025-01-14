@@ -1,0 +1,51 @@
+
+.part1{
+    position: relative;
+    height: 90vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+
+.content h1,h2{
+    color: white;
+    font-size: 60px;
+}
+.content h1{
+    position: relative;
+    top:46px;
+    left:60px;
+}
+
+.content p{
+    color:white;
+    font-size:18px;
+    position: relative;
+    left:70px;
+}
+.content p1{
+    color:white;
+    font-size:18px;
+    position: relative;
+    left:90px;
+    bottom: 45px;
+}
+
+.dc{
+    position: relative;
+    border-radius: 16px;
+    top:340px;
+    left:500px;
+    color:#538d67;
+    border:none;
+    background-color: #cff47f;
+    font-size: 16px;
+}
+.dc p{
+    color: #91bf72;
+    font-size: 14px;
+    position: relative;
+    right: 90px;
+}

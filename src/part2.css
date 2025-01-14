@@ -1,0 +1,28 @@
+s1,s2,s3,s4{
+    font-size: 40px;
+    background: #f9f9f9;
+    color: #333;
+    
+}
+
+s1{
+    position: relative;
+    left:530px;
+    top:30px;
+}
+s2{
+    position: relative;
+    top:80px;
+    right:45px;
+}
+
+s3{
+    position: relative;
+    top:75px;
+    left:500px;
+}
+
+s4{
+    position: relative;
+    top:120px;
+}

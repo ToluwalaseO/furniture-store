@@ -1,0 +1,46 @@
+/* Style for the product card container */
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Style for the product image */
+  .product-image {
+    width: 100%;
+    max-width: 200px; /* Set a maximum width for the images */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 12px;
+    border-radius: 8px;
+  }
+  
+  /* Style for the product name */
+  .product-card h3 {
+    font-size: 18px;
+    margin: 8px 0;
+    color: #333;
+  }
+  
+  /* Style for the price */
+  .product-card p {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* Style for the category */
+  .product-card span {
+    font-size: 14px;
+    color: #888;
+    display: block;
+    margin-top: 8px;
+  }
+  
