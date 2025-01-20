@@ -25,27 +25,38 @@
     position: relative;
     left:70px;
 }
-.content p1{
+.content .special-p{
     color:white;
     font-size:18px;
     position: relative;
     left:90px;
-    bottom: 45px;
+    bottom:15px;
 }
 
 .dc{
     position: relative;
     border-radius: 16px;
-    top:340px;
-    left:500px;
+    top:240px;
+    left:960px;
     color:#538d67;
     border:none;
     background-color: #cff47f;
     font-size: 16px;
+    text-align: center;
 }
 .dc p{
     color: #91bf72;
-    font-size: 14px;
+    font-size: 16px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
     position: relative;
-    right: 90px;
+    right:3
+    00px;
+}
+
+.arrow{
+    position: relative;
+    left:500px;
+    bottom: 30px;
 }

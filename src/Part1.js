@@ -20,12 +20,12 @@ const Part1 = () => {
                     Our practice is designing complete environments,
                     exceptional buildings,
                 </p>
-                <p1>
+                <p class = "special-p">
                     communities and places in special situations,
                     here a unique history.
-                </p1>
+                </p>
                 <button className="dc">
-                    100% Free
+                    <p>100% Free</p>
                     <p>Design Consultations</p>
                 </button>
                 <button className="arrow">
