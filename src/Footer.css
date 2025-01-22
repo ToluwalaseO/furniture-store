@@ -1,0 +1,25 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #000000;
+    color: white;
+    border-radius: 16px;
+  }
+
+  .check{
+    position: relative;
+    top:30px;
+  }
+  
+
+
+  .footer-section h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-section p {
+    margin: 5px 0;
+  }
+  

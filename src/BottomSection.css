@@ -1,0 +1,36 @@
+
+.bottom-section{
+    position: relative;
+    top:340px;
+    border-radius: 24px;
+
+}
+.body21 h1{
+position: relative;
+left:40px;
+bottom: 400px;
+color: white;
+font-size:60px;
+}
+
+.body21 .special-h1{
+    position: relative;
+    bottom:450px;
+}
+
+.body21 p{
+    position: relative;
+    bottom:450px;
+    left:50px;
+    color: white;
+}
+
+.btn-1{
+    position: relative;
+    bottom:430px;
+    left:60px;
+    background-color: #cff47f;
+    height: 35px;
+    border: none;
+    border-radius: 20px;
+}
