@@ -8,9 +8,9 @@ const Part1 = () => {
         <div
             className="part1"
             style={{
-                backgroundImage: 'url(/room.png)', // Use the public folder path
-                backgroundSize: 'cover', // Ensure it covers the area
-                backgroundPosition: 'center', // Position it at the center
+                backgroundImage: 'url(/room.png)', 
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
             }}
         >
             <div className="content">
