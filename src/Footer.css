@@ -6,6 +6,8 @@
     background-color: #000000;
     color: white;
     border-radius: 16px;
+    position: relative;
+    bottom: 0px;
   }
 
   .check{

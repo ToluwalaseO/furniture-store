@@ -1,15 +1,23 @@
 /* Style for the grid container */
-.grid {
+.product-grid .grid {
   display: grid;
   gap: 20px; /* Spacing between items */
   grid-template-columns: repeat(3, 1fr); /* 3 equal-width columns */
-  justify-items: center; /* Center content horizontally within each grid cell */
-  align-items: start; /* Align items at the start vertically */
+  justify-items: center;
 }
 
-/* Responsive design for smaller screens */
+
+.product-grid{
+  width: 900px;
+}
+
+
+
+/*  
+
 @media (max-width: 768px) {
   .grid {
-      grid-template-columns: 1fr; /* Single column on smaller screens */
+      grid-template-columns: 1fr; 
   }
-}
+  
+}*/

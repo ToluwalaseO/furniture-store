@@ -9,15 +9,13 @@ const TopSection = () => {
     <div className="top-section">
       <div className="image-card1">
         <img src={chair4} alt="topsection image" />
-        <div className="overlay">
-          <h2>Shop Sectionals</h2>
-          <button className="btn-green">See Collection</button>
-        </div>
+        <h3>New in Rochester silverware</h3>
       </div>
       <div className="image-card2">
         <img src={chair5} alt="Design Desk" />
-        <h3>New in Rochester silverware</h3>
-      </div>
+          <h2>Shop Sectionals</h2>
+          <button className="btn-green">See Collection</button>      
+     </div>
       <div className="image-card3">
         <img src={chair3} alt="topsection image" />
         <h3>Cosy Layers</h3>

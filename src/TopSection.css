@@ -48,7 +48,7 @@
   }
   
   .image-card:hover .overlay {
-    opacity: 1;
+    opacity: 2;
   }
   
   .btn-green {
@@ -71,6 +71,12 @@
     border-radius: 24px;
  }
 
+ .image-card1 h3{
+    position: relative;
+    bottom:80px;
+    color: white;
+    left:30px;
+ }
  .image-card2 img{
     height: 400px;
     width:800px;
@@ -83,4 +89,11 @@
     top:420px;
     right:825px;
     border-radius: 24px;
+ }
+
+ .image-card3 h3{
+    position: relative;
+    bottom:300px;
+    color: white;
+    z-index: 12;
  }
