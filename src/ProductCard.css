@@ -2,7 +2,7 @@
 .product-card {
     border-radius: 20px;
     background-color: #efefef;
-    width:350px;
+    width:440px;
     height:350px;
     align-items: center;
     justify-content: center;
@@ -42,7 +42,7 @@
   .product-card p {
     font-size: 20px;
     font-style: bold;
-    font-weight: 700;
+    font-weight: 700; 
    
   }
   
@@ -52,5 +52,7 @@
     display: block;
     margin-top: 1px;
     width: 200px;
+    position: relative;
+    bottom: 10px;
   }
   

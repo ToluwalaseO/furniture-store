@@ -6,8 +6,11 @@ import "./Collections.css";
 const Collections = () => {
   return (
     <div className="product-grid">
-      <h2>New Collections</h2>
-      <p>Products that give you the comfort and style you need for everyday living.</p>
+      <h1>New Collections</h1>
+      <p className="req">These Products are made with wood from forest
+          certified to be responsibly 
+        </p>
+        <button className="final">See Collection</button>
       <div className="grid">
         {Product.map((product, index) => (
           <ProductCard key={index} data={product} />
@@ -18,3 +21,7 @@ const Collections = () => {
 };
 
 export default Collections;
+
+
+        
+     

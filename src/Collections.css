@@ -10,10 +10,34 @@
 .product-grid{
   /* margin-left: 10px; */
   /* width: 900px; increase the sizes of the box instead */
+  position: relative;
+  top:80px;
 }
 
 
+.product-grid h1{
+  z-index: 10;
+  position: relative;
+  font-size: 18px;
+  top: 40px;
+}
 
+.product-grid .req{
+  position: relative;
+  top:30px;
+}
+
+.final{
+  position: relative;
+  left:1200px;
+  bottom: 30px;
+  background-color: #cff47f;
+  border-radius: 16px;
+  border: none;
+  height: 25px;
+  width: 140px;
+
+}
 /*  
 
 @media (max-width: 768px) {

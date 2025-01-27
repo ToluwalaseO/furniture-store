@@ -21,9 +21,9 @@
 
 .content p{
     color:white;
-    font-size:18px;
-    position: relative;
-    left:70px;
+    /* font-size:18px; */
+    /* position: relative; */
+    /* left:70px; */
 }
 .content .special-p{
     color:white;
@@ -41,7 +41,7 @@
     color:#538d67;
     border:none;
     background-color: #cff47f;
-    font-size: 16px;
+    font-size: 12px;
     display: flex;
     align-items: center;
     justify-content: center;
