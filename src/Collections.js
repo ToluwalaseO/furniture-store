@@ -1,6 +1,7 @@
 import React from "react";
 import { Product } from "./Product";
 import ProductCard from "./ProductCard"; // Import the ProductCard component
+import "./Collections.css";
 
 const Collections = () => {
   return (

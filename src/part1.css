@@ -36,27 +36,27 @@
 .dc{
     position: relative;
     border-radius: 16px;
-    top:240px;
-    left:960px;
+    top:220px;
+    left:860px;
     color:#538d67;
     border:none;
     background-color: #cff47f;
     font-size: 16px;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 170px;
 }
 .dc p{
     color: #91bf72;
     font-size: 16px;
-    text-align: left;
     margin: 0;
     padding: 0;
-    position: relative;
-    right:3
-    00px;
 }
 
-.arrow{
+/* .arrow{
     position: relative;
     left:500px;
     bottom: 30px;
-}
+} */

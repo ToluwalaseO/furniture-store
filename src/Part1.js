@@ -24,10 +24,10 @@ const Part1 = () => {
                     communities and places in special situations,
                     here a unique history.
                 </p>
-                <button className="dc">
+                <div className="dc">
                     <p>100% Free</p>
                     <p>Design Consultations</p>
-                </button>
+                </div>
                 <button className="arrow">
                     <FontAwesomeIcon icon={faArrowDown} style={{ color: "#ffffff" }} />
                 </button>

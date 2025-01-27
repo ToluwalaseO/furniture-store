@@ -52,13 +52,17 @@
   }
   
   .btn-green {
-    background-color: #5cb85c;
+    background-color: #cff47f;
     color: white;
     border: none;
     padding: 10px 20px;
-    border-radius: 5px;
+    border-radius: 20px;
     cursor: pointer;
     font-size: 14px;
+    position: relative;
+    left:20px;
+    z-index: 10;
+    bottom: 160px;
   }
   
   .btn-green:hover {
@@ -69,6 +73,7 @@
     height: 820px;
     width:700px;
     border-radius: 24px;
+    
  }
 
  .image-card1 h3{
@@ -79,21 +84,34 @@
  }
  .image-card2 img{
     height: 400px;
-    width:800px;
+    width:650px;
     border-radius: 24px;
+    position: relative;
+    right:5px;
+ }
+
+ .image-card2 h2{
+  color: white;
+  position: relative;
+  left:20px;
+  z-index: 10;
+  bottom:147px;
+  font-size: 30px;
+
  }
  .image-card3 img{
     height: 400px;
-    width:800px;
+    width:650px;
     position: relative;
     top:420px;
-    right:825px;
+    right:675px;
     border-radius: 24px;
  }
 
  .image-card3 h3{
     position: relative;
-    bottom:300px;
+    top:350px;
     color: white;
-    z-index: 12;
+    right:650px;
+    z-index: 10;
  }
