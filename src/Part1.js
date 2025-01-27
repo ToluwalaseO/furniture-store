@@ -20,13 +20,13 @@ const Part1 = () => {
                     Our practice is designing complete environments,
                     exceptional buildings,
                 </p>
-                <p class = "special-p">
+                <p className = "special-p">
                     communities and places in special situations,
                     here a unique history.
                 </p>
                 <div className="dc">
-                    <p>100% Free</p>
-                    <p>Design Consultations</p>
+                    <p className="ner-p">100% Free</p>
+                    <p className="ner-p">Design Consultations</p>
                 </div>
                 <button className="arrow">
                     <FontAwesomeIcon icon={faArrowDown} style={{ color: "#ffffff" }} />

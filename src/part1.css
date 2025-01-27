@@ -48,15 +48,17 @@
     flex-direction: column;
     width: 170px;
 }
-.dc p{
+.ner-p{
     color: #91bf72;
     font-size: 16px;
     margin: 0;
     padding: 0;
+    text-align: center;
+    
 }
 
-/* .arrow{
+.arrow{
     position: relative;
     left:500px;
     bottom: 30px;
-} */
+}
