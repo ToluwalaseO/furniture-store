@@ -26,7 +26,7 @@ const Part1 = () => {
                 </p>
                 <div className="dc">
                     <p className="ner-p">100% Free</p>
-                    <p className="ner-p">Design Consultations</p>
+                    <p className="nef-p">Design Consultations</p>
                 </div>
                 <button className="arrow">
                     <FontAwesomeIcon icon={faArrowDown} style={{ color: "#ffffff" }} />
